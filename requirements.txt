@@ -1,0 +1,2 @@
+# The public interface scaffold currently uses only the Python standard library.
+# Full experiment dependencies will accompany the complete code release.

@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "dataset": "Neem (Azadirachta indica subset of AI-MedLeafX)",
+  "source_url": "https://data.mendeley.com/datasets/zz7r5y4dc6/1",
+  "source_doi": "10.17632/zz7r5y4dc6.1",
+  "source_license": "CC BY 4.0",
+  "classes": [
+    "Healthy Leaf",
+    "Powdery Mildew",
+    "Shot Hole Leaf",
+    "Yellow Leaf"
+  ],
+  "full_neem_subset_images": 3563,
+  "validation": {
+    "seed": 619,
+    "per_class": 125,
+    "total": 500,
+    "excluded_from_reported_queries": true
+  },
+  "evaluation_universe_images": 3063,
+  "query_definition": "evaluation universe minus the current run's support set",
+  "nested_support_within_seed": true,
+  "runs": [
+    {
+      "shot": 1,
+      "run": 1,
+      "seed": 620,
+      "support": 4,
+      "query": 3059
+    },
+    {
+      "shot": 1,
+      "run": 2,
+      "seed": 621,
+      "support": 4,
+      "query": 3059
+    },
+    {
+      "shot": 1,
+      "run": 3,
+      "seed": 622,
+      "support": 4,
+      "query": 3059
+    },
+    {
+      "shot": 1,
+      "run": 4,
+      "seed": 623,
+      "support": 4,
+      "query": 3059
+    },
+    {
+      "shot": 1,
+      "run": 5,
+      "seed": 624,
+      "support": 4,
+      "query": 3059
+    },
+    {
+      "shot": 3,
+      "run": 1,
+      "seed": 620,
+      "support": 12,
+      "query": 3051
+    },
+    {
+      "shot": 3,
+      "run": 2,
+      "seed": 621,
+      "support": 12,
+      "query": 3051
+    },
+    {
+      "shot": 3,
+      "run": 3,
+      "seed": 622,
+      "support": 12,
+      "query": 3051
+    },
+    {
+      "shot": 3,
+      "run": 4,
+      "seed": 623,
+      "support": 12,
+      "query": 3051
+    },
+    {
+      "shot": 3,
+      "run": 5,
+      "seed": 624,
+      "support": 12,
+      "query": 3051
+    },
+    {
+      "shot": 5,
+      "run": 1,
+      "seed": 620,
+      "support": 20,
+      "query": 3043
+    },
+    {
+      "shot": 5,
+      "run": 2,
+      "seed": 621,
+      "support": 20,
+      "query": 3043
+    },
+    {
+      "shot": 5,
+      "run": 3,
+      "seed": 622,
+      "support": 20,
+      "query": 3043
+    },
+    {
+      "shot": 5,
+      "run": 4,
+      "seed": 623,
+      "support": 20,
+      "query": 3043
+    },
+    {
+      "shot": 5,
+      "run": 5,
+      "seed": 624,
+      "support": 20,
+      "query": 3043
+    },
+    {
+      "shot": 10,
+      "run": 1,
+      "seed": 620,
+      "support": 40,
+      "query": 3023
+    },
+    {
+      "shot": 10,
+      "run": 2,
+      "seed": 621,
+      "support": 40,
+      "query": 3023
+    },
+    {
+      "shot": 10,
+      "run": 3,
+      "seed": 622,
+      "support": 40,
+      "query": 3023
+    },
+    {
+      "shot": 10,
+      "run": 4,
+      "seed": 623,
+      "support": 40,
+      "query": 3023
+    },
+    {
+      "shot": 10,
+      "run": 5,
+      "seed": 624,
+      "support": 40,
+      "query": 3023
+    }
+  ]
+}

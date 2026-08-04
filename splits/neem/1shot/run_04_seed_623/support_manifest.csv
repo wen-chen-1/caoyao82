@@ -1,0 +1,5 @@
+﻿index,split,class,label,file,relative_path,image_sha256,run,seed,support_id,query_id,sequence_group
+0,support,Healthy Leaf,0,Healthy Leaf_20241104_184607.jpg.jpg,Healthy Leaf/Healthy Leaf_20241104_184607.jpg.jpg,8f95482088599f19002e8f7d137694ee3a389f9f4b7a59d188aea393c9a2a6bf,4,623,,,
+1,support,Powdery Mildew,1,White Spot_IMG_20241108_185738.jpg.jpg,Powdery Mildew/White Spot_IMG_20241108_185738.jpg.jpg,ec42ea36d3c58255c5353b686f355157b5cbf84831668afe23a2a9892028a0fe,4,623,,,
+2,support,Shot Hole Leaf,2,Spot Leaf_20241103_191651.jpg.jpg,Shot Hole Leaf/Spot Leaf_20241103_191651.jpg.jpg,6fcc48fc7bc538becc58957d7885d960dbb79b009189d99423b3b5fdd548e1af,4,623,,,
+3,support,Yellow Leaf,3,Yellow Leaf_20241103_201116.jpg.jpg,Yellow Leaf/Yellow Leaf_20241103_201116.jpg.jpg,eeda74fca08c9076305c60160a4ea40743bccb7fa215309b9fa2aebb1135603d,4,623,,,

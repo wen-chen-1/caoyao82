@@ -1,0 +1,46 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Raw datasets and archives
+data/**/*
+!data/README.md
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+
+# Model weights, generated features, VLM caches, and experiment outputs
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.npz
+*.npy
+results/**/*
+!results/README.md
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp

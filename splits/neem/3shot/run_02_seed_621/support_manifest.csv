@@ -1,0 +1,13 @@
+﻿index,split,class,label,file,relative_path,image_sha256,run,seed,support_id,query_id,sequence_group
+0,support,Healthy Leaf,0,Healthy Leaf_IMG_20241104_182614.jpg.jpg,Healthy Leaf/Healthy Leaf_IMG_20241104_182614.jpg.jpg,1b0c22955a591f26fd6ea5dd0bd519bebfc98ad959d72da3be7e2e16face3d33,2,621,,,
+1,support,Healthy Leaf,0,Healthy Leaf_IMG_20241104_182118.jpg.jpg,Healthy Leaf/Healthy Leaf_IMG_20241104_182118.jpg.jpg,eea03de2ed7982c574827cd253c12c5931c226d9de0ee30d0f552dc8f80c7d92,2,621,,,
+2,support,Healthy Leaf,0,Healthy Leaf_IMG_20241104_185536.jpg.jpg,Healthy Leaf/Healthy Leaf_IMG_20241104_185536.jpg.jpg,1e07457905397ec2a94d49495b4212a909977b4ce2250e20917c5f59d7101787,2,621,,,
+3,support,Powdery Mildew,1,White Spot_20241104_005057.jpg.jpg,Powdery Mildew/White Spot_20241104_005057.jpg.jpg,24d607a5cc4688acf459db24efba9caae3bccc86273a85d36b3a8012d85c9f87,2,621,,,
+4,support,Powdery Mildew,1,White Spot_IMG_20241108_184318.jpg.jpg,Powdery Mildew/White Spot_IMG_20241108_184318.jpg.jpg,d88c586dc6781d6c80b08bc4b10a3cadc1ee699ae2b1de158e736935b5ea62c2,2,621,,,
+5,support,Powdery Mildew,1,White Spot_IMG_20241108_184205.jpg.jpg,Powdery Mildew/White Spot_IMG_20241108_184205.jpg.jpg,8ea709c4f41306339edbb6834f2dea83ae40e447eaa5a1d80d23187417e41893,2,621,,,
+6,support,Shot Hole Leaf,2,Spot Leaf_IMG_20241103_195451.jpg.jpg,Shot Hole Leaf/Spot Leaf_IMG_20241103_195451.jpg.jpg,fdda8dff3527b607ba97d70e5f185bd28e516612ed2955be8030f47ef7f32dc8,2,621,,,
+7,support,Shot Hole Leaf,2,Spot Leaf_IMG_20241103_195430.jpg.jpg,Shot Hole Leaf/Spot Leaf_IMG_20241103_195430.jpg.jpg,57ff995ade01e7146f13fe49b1ed1add1053fcb43ac67fd1d931c2d219beb700,2,621,,,
+8,support,Shot Hole Leaf,2,Spot Leaf_20241103_194953.jpg.jpg,Shot Hole Leaf/Spot Leaf_20241103_194953.jpg.jpg,0bb70252fc9597312845b438a4295644d865541718509df4e8db3334bf320bbf,2,621,,,
+9,support,Yellow Leaf,3,Yellow Leaf_IMG_20241103_200608.jpg.jpg,Yellow Leaf/Yellow Leaf_IMG_20241103_200608.jpg.jpg,ecd27128f2ecbee51553d202447ab66725a4635915ec7495273031b83f96b3e6,2,621,,,
+10,support,Yellow Leaf,3,Yellow Leaf_IMG_20241103_200411.jpg.jpg,Yellow Leaf/Yellow Leaf_IMG_20241103_200411.jpg.jpg,baf51e228f33da73318eb7cb15e3e46fcfcf6cedcae5f26413fbd2f5332a5c39,2,621,,,
+11,support,Yellow Leaf,3,Yellow Leaf_IMG_20241103_200802.jpg.jpg,Yellow Leaf/Yellow Leaf_IMG_20241103_200802.jpg.jpg,1e5946ed071ca0b4494271116410c7ed33348c33230ceb57f2254fadf5f48a59,2,621,,,
